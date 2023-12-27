@@ -1,7 +1,5 @@
 Hey everyone!👋 Welcome to my space! Here, you'll find a bunch of Selenium scripts ready to level up your testing game. Let's dive in!!
 
-This repository hosts a collection of automation scripts designed to simplify and streamline various testing scenarios. Whether you're working on e-commerce functionality, implementing Facebook login, optimizing element locators, or managing Windows handlers, you'll find helpful scripts and examples here.
-
 Scripts Overview:
 🚀 E-commerce Automation:
     Explore automation scripts specifically tailored for testing e-commerce workflows. From product selection to checkout processes, these scripts aim to enhance the efficiency and accuracy of your testing suite.
