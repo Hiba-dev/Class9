@@ -1,6 +1,5 @@
 Hey everyone!👋 Welcome to my space! Here, you'll find a bunch of Selenium scripts ready to level up your testing game. Let's dive in!!
 
-Scripts Overview:
 🚀 E-commerce Automation:
     Explore automation scripts specifically tailored for testing e-commerce workflows. From product selection to checkout processes, these scripts aim to enhance the efficiency and accuracy of your testing suite.
 
