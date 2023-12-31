@@ -84,6 +84,7 @@ public class saucedemo {
 		back_to_home.click();
 		
 		driver.close();
+		driver.quit();
 		}
 	
 }

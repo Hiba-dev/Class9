@@ -30,7 +30,7 @@ public class FBLoginForm {
 		WebElement button = driver.findElement(By.id("loginbutton"));
 		button.click();
 		driver.quit();
-	   
+	    driver.close();
 
 	}
 
